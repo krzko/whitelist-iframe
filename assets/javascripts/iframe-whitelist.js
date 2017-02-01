@@ -11,4 +11,7 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/twitframe\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/veloviewer\.com\/segments\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/((\www\b)|(\player\b))\.twitch\.tv\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/beam\.pro\/embed\/.+/i);
+  
 })();
