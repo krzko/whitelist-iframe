@@ -1,5 +1,4 @@
 # discourse-whitelist-iframe
-================
 
 Discourse plugin for whitelisting iframe urls
 
